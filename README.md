@@ -38,5 +38,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShantanuShastri7&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShantanuShastri7)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantanuShastri7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
