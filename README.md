@@ -41,5 +41,3 @@ Here are some ideas to get you started:
 [![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShantanuShastri7)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantanuShastri7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Snake animation](https://github.com/ShantanuShastri7/ShantanuShastri7/blob/output/github-contribution-grid-snake.svg)
