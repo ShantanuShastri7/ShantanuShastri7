@@ -1,21 +1,27 @@
-## Hi there 👋
+## Hey there 👋, I’m Shantanu
+I love building scalable systems, writing clean and efficient code, and solving real-world problems through technology.
 
-<!--
-**ShantanuShastri7/ShantanuShastri7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I graduated with a B.Tech in Electronics and Communication Engineering from Manipal Institute of Technology in 2022.
 
-Here are some ideas to get you started:
+👨‍💻 I'm a Software Developer 2 at BlackRock, working on Aladdin, BlackRock’s flagship product. I specialize in the confirmations and settlements domain, developing robust, high-scale systems that handle ~3 million trades daily.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech I'm working with:
 
----
+Java, Spring Core backend services
+
+gRPC – API design and implementation
+
+Zookeeper & Apache Ignite – Distributed architecture and caching
+
+Azure Blob Storage – Secondary, non-transactional data storage
+
+Angular – Domain-specific front-end interfaces
+
+📚 I’m deeply interested in scalable systems and distributed computing, and always eager to learn what makes software resilient and high-performing.
+
+🏃‍♂️ Outside of tech, I’m training for a marathon, love cooking, and enjoy brewing my coffee.
+
+📫 How to reach me: shantanushastri70@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
