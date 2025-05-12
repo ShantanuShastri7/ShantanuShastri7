@@ -21,6 +21,8 @@ Angular – Domain-specific front-end interfaces
 
 🏃‍♂️ Outside of tech, I’m training for a marathon, love cooking, and enjoy brewing my coffee.
 
+📄 [My Resume](https://www.linkedin.com/in/shantanushastri/details/featured/1747032065916/single-media-viewer/?profileId=ACoAAClBdJwB72c1ILq5zrwCwupLj1jeecz2P7E)
+
 📫 How to reach me: shantanushastri70@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
