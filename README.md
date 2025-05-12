@@ -37,6 +37,7 @@ I love building scalable systems, writing clean and efficient code, and solving 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/7802525?s=200&v=4" title="gRPC" alt="gRPC" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" title="Cassandra" alt="Cassandra" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheignite/apacheignite-original.svg" title="Apache Ignite" alt="Apache Ignite" width="40" height="40"/>&nbsp;
 </div>
 
 
