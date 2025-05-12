@@ -1,25 +1,21 @@
-## Hey there 👋, I’m Shantanu
+### Hey there 👋, I’m Shantanu
+
 I love building scalable systems, writing clean and efficient code, and solving real-world problems through technology.
 
-🌱 I graduated with a B.Tech in Electronics and Communication Engineering from Manipal Institute of Technology in 2022.
+🌱 I graduated with a B.Tech in Electronics and Communication Engineering from [Manipal Institute of Technology](https://manipal.edu/mit.html) in 2022.
 
-👨‍💻 I'm a Software Developer 2 at BlackRock, working on Aladdin, BlackRock’s flagship product. I specialize in the confirmations and settlements domain, developing robust, high-scale systems that handle ~3 million trades daily.
+👨‍💻 I'm currently a **Software Developer 2 at [BlackRock](https://www.blackrock.com)**, where I work on **Aladdin**, BlackRock’s flagship product. I specialize in the **confirmations and settlements domain**, developing robust, high-scale systems that handle **~3 million trades daily**.
 
 🛠️ Tech I'm working with:
-
-Java, Spring Core backend services
-
-gRPC – API design and implementation
-
-Zookeeper & Apache Ignite – Distributed architecture and caching
-
-Azure Blob Storage – Secondary, non-transactional data storage
-
-Angular – Domain-specific front-end interfaces
+- **Java, Spring** – Core backend services  
+- **gRPC** – API design and implementation  
+- **Zookeeper & Apache Ignite** – Distributed architecture and caching  
+- **Azure Blob Storage** – Secondary, non-transactional data storage  
+- **Angular** – Domain-specific front-end interfaces
 
 📚 I’m deeply interested in scalable systems and distributed computing, and always eager to learn what makes software resilient and high-performing.
 
-🏃‍♂️ Outside of tech, I’m training for a marathon, love cooking, and enjoy brewing my coffee.
+🏃‍♂️ Outside of tech, I’m training for a **marathon**, love **cooking**, and enjoy **brewing my own coffee**.
 
 📄 [My Resume](https://www.linkedin.com/in/shantanushastri/details/featured/1747032065916/single-media-viewer/?profileId=ACoAAClBdJwB72c1ILq5zrwCwupLj1jeecz2P7E)
 
