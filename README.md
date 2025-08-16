@@ -1,10 +1,13 @@
 ### Hey there 👋, I’m Shantanu
-
 I love building scalable systems, writing clean and efficient code, and solving real-world problems through technology.
 
-🌱 I graduated with a B.Tech in Electronics and Communication Engineering from [Manipal Institute of Technology](https://manipal.edu/mit.html) in 2022.
+🎓 I am currently pursuing my Master’s in Information Systems at Carnegie Mellon University, specializing in Artificial Intelligence and Distributed Systems.
 
-👨‍💻 I'm currently a **Software Developer 2 at [BlackRock](https://www.blackrock.com)**, where I work on **Aladdin**, BlackRock’s flagship product. I specialize in the **confirmations and settlements domain**, developing robust, high-scale systems that handle **~3 million trades daily**.
+🌱 I graduated with a B.Tech in Electronics and Communication Engineering from Manipal Institute of Technology in 2022.
+
+👨‍💻 I previously worked as a **Software Developer 2 at [BlackRock](https://www.blackrock.com)**, where I work on **Aladdin**, BlackRock’s flagship product. I specialize in the **confirmations and settlements domain**, developing robust, high-scale systems that handle **~3 million trades daily**.
+
+💡 I also interned at Shunya, where I built a computer vision pipeline that identified incorrect answers in children’s answer sheets and suggested personalized topics for improvement.
 
 🛠️ Tech I'm working with:
 - **Java, Spring** – Core backend services  
@@ -12,8 +15,9 @@ I love building scalable systems, writing clean and efficient code, and solving 
 - **Zookeeper & Apache Ignite** – Distributed architecture and caching  
 - **Azure Blob Storage** – Secondary, non-transactional data storage  
 - **Angular** – Domain-specific front-end interfaces
+- **TensorFlow** – PyTorch, Pandas, NumPy – Machine Learning & Data Science
 
-📚 I’m deeply interested in scalable systems and distributed computing, and always eager to learn what makes software resilient and high-performing.
+📚 I’m deeply interested in scalable systems, distributed computing, and applied machine learning, and always eager to learn what makes software resilient and high-performing.
 
 🏃‍♂️ Outside of tech, I’m training for a **marathon**, love **cooking**, and enjoy **brewing my own coffee**.
 
