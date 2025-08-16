@@ -1,11 +1,11 @@
 ### Hey there 👋, I’m Shantanu
 I love building scalable systems, writing clean and efficient code, and solving real-world problems through technology.
 
-🎓 I am currently pursuing my Master’s in Information Systems at Carnegie Mellon University, specializing in Artificial Intelligence and Distributed Systems.
+🎓 I am pursuing my **Master’s in Information Systems** at **[Carnegie Mellon University](https://www.cmu.edu/)**, specializing in Artificial Intelligence and Distributed Systems.
 
-🌱 I graduated with a B.Tech in Electronics and Communication Engineering from Manipal Institute of Technology in 2022.
+🌱 I graduated with a **B.Tech in Electronics and Communication Engineering** from **[Manipal Institute of Technology](https://www.manipal.edu/mit.html)** in 2022.
 
-👨‍💻 I previously worked as a **Software Developer 2 at [BlackRock](https://www.blackrock.com)**, where I work on **Aladdin**, BlackRock’s flagship product. I specialize in the **confirmations and settlements domain**, developing robust, high-scale systems that handle **~3 million trades daily**.
+👨‍💻 I previously worked as a **Software Developer 2** at **[BlackRock](https://www.blackrock.com)**, where I work on **Aladdin**, BlackRock’s flagship product. I specialize in the **confirmations and settlements domain**, developing robust, high-scale systems that handle **~3 million trades daily**.
 
 💡 I also interned at Shunya, where I built a computer vision pipeline that identified incorrect answers in children’s answer sheets and suggested personalized topics for improvement.
 
