@@ -21,7 +21,7 @@ I love building scalable systems, writing clean and efficient code, and solving 
 
 🏃‍♂️ Outside of tech, I’m training for a **marathon**, love **cooking**, and enjoy **brewing my own coffee**.
 
-📄 [My Resume](https://www.linkedin.com/in/shantanushastri/details/featured/1747032065916/single-media-viewer/?profileId=ACoAAClBdJwB72c1ILq5zrwCwupLj1jeecz2P7E)
+📄 [My Resume](https://www.linkedin.com/in/shantanushastri/details/featured/1755042425182/single-media-viewer/?profileId=ACoAAClBdJwB72c1ILq5zrwCwupLj1jeecz2P7E)
 
 📫 How to reach me: [shantanushastri70@gmail.com](mailto:shantanushastri70@gmail.com)
 
